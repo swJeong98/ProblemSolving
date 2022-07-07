@@ -2,6 +2,8 @@
 알고리즘 문제 풀이 코드.
 공부한 방법에 따라 분류를 해서 저장해두었습니다.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tree5678)](https://solved.ac/tree5678)
+
 ### Lecture
 바킹독님의 실전 알고리즘 강좌의 문제에 대해 제가 작성한 소스코드를 정리해놓았습니다.
 
