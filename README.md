@@ -9,7 +9,7 @@
 
 ### Study
 알고리즘 스터디에서 풀어본 문제의 소스코드를 정리해놓았습니다.
-[BOJ](https://www.acmicpc.net/){:target="_blank"} 문제들입니다.
+[BOJ](https://www.acmicpc.net/) 문제들입니다.
 
 ### 개인공부
 혼자 자유롭게 공부한 문제들의 소스코드를 정리해놓았습니다.
