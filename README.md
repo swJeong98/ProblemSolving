@@ -1,20 +1,20 @@
-# ProblemSolving
-알고리즘 문제 풀이 코드.
-공부한 방법에 따라 분류를 해서 저장해두었습니다.
+# Problem Solving
+알고리즘 문제 풀이 코드.   
+C++로 대부분 작성되었고, 문자열 다루는 문제 중 일부는 Python으로 작성하였습니다.   
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tree5678)](https://solved.ac/tree5678)
 
 ### Lecture
-바킹독님의 실전 알고리즘 강좌의 문제에 대해 제가 작성한 소스코드를 정리해놓았습니다.
-
-[링크](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)를 클릭하시면 바킹독님의 문제집으로 이동하실 수 있습니다.
+바킹독님의 실전 알고리즘 강좌 문제에 대해 직접 작성한 소스코드   
+[실전 알고리즘 강좌 링크](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=1)를 클릭하시면 강좌를 들으실 수 있습니다.   
+[문제집 링크](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)를 클릭하시면 바킹독님의 문제집으로 이동하실 수 있습니다.
 
 ### Study
-알고리즘 스터디에서 풀어본 문제의 소스코드를 정리해놓았습니다.
-[BOJ](https://www.acmicpc.net/) 문제들입니다.
+알고리즘 스터디에서 풀어본 문제의 소스코드.   
+[Baekjoon Online judge](https://www.acmicpc.net/) 문제들입니다.   
 
 ### 개인공부
-혼자 자유롭게 공부한 문제들의 소스코드를 정리해놓았습니다.
-[BOJ](https://www.acmicpc.net/),
-[Programmers](https://programmers.co.kr/),
+자유롭게 공부한 문제들의 소스코드.   
+[Baekjoon Online Judge](https://www.acmicpc.net/),       
+[Programmers](https://programmers.co.kr/),   
 [Codeforces](https://codeforces.com/)의 문제들입니다.
