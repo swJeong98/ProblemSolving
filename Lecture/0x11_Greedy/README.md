@@ -1,4 +1,4 @@
-# 0x11 문제 풀이 (11 / 17)
+# 0x11 문제 풀이 (12 / 17)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -12,7 +12,7 @@
 | 11501 | [주식](https://www.acmicpc.net/problem/11501) | [완료](./solutions/11501.cpp) |
 | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | [완료](./solutions/1744.cpp) |
 | 2847 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [완료](./solutions/2847.cpp) |
-| 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | [미완료] |
+| 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | [완료](./solutions/1439.cpp) |
 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | [미완료] |
 | 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [미완료] |
 | 2170 | [선 긋기](https://www.acmicpc.net/problem/2170) | [미완료] |
