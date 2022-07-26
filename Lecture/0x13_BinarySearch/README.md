@@ -1,4 +1,4 @@
-# 0x13 문제 풀이 (16 / 21)
+# 0x13 문제 풀이 (18 / 21)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -8,8 +8,8 @@
 | 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) | [완료](./solutions/2295.cpp) |
 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [완료](./solutions/1654.cpp) |
 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [완료](./solutions/10815.cpp) |
-| 1822 | [차집합](https://www.acmicpc.net/problem/1822) | [미완료] |
-| 16401 | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | [미완료] |
+| 1822 | [차집합](https://www.acmicpc.net/problem/1822) | [완료](./solutions/1822.cpp) |
+| 16401 | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | [완료](./solutions/16401.cpp) |
 | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [완료](./solutions/2805.cpp) |
 | 18869 | [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869) | [미완료] |
 | 2467 | [용액](https://www.acmicpc.net/problem/2467) | [완료](./solutions/2467.cpp) |
