@@ -1,4 +1,4 @@
-# 0x0C 문제 풀이 (17 / 20)
+# 0x0C 문제 풀이 (18 / 20)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -19,6 +19,6 @@
 | 6603 | [로또](https://www.acmicpc.net/problem/6603) | [완료](./solutions/6603.cpp) |
 | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | [완료](./solutions/1759.cpp) |
 | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [완료](./solutions/1941.cpp) |
-| 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [미완료] |
+| 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [완료](./solutions/16987.cpp) |
 | 18809 | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | [미완료] |
 | 1799 | [비숍](https://www.acmicpc.net/problem/1799) | [미완료] |
