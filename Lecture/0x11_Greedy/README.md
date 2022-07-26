@@ -14,7 +14,7 @@
 | 2847 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [완료](./solutions/2847.cpp) |
 | 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | [완료](./solutions/1439.cpp) |
 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | [완료](./solutions/11000.cpp) |
-| 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [완료](.solutions/15903.cpp) |
+| 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [완료](./solutions/15903.cpp) |
 | 2170 | [선 긋기](https://www.acmicpc.net/problem/2170) | [미완료] |
 | 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [미완료] |
 | 8980 | [택배](https://www.acmicpc.net/problem/8980) | [미완료] |
