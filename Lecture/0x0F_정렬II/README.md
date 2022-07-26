@@ -10,4 +10,4 @@
 | 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [완료](./solutions/10814.cpp) |
 | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | [완료](./solutions/11656.cpp) |
 | 10825 | [국영수](https://www.acmicpc.net/problem/10825) | [완료](./solutions/10825.cpp) |
-| 7795 | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) | [완료](./solutions/7705.cpp) |
+| 7795 | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) | [완료](./solutions/7795.cpp) |
