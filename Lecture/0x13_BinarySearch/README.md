@@ -1,4 +1,4 @@
-# 0x13 문제 풀이 (18 / 21)
+# 0x13 문제 풀이 (19 / 21)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -21,5 +21,5 @@
 | 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110) | [완료](./solutions/2110.cpp) |
 | 7453 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | [미완료] |
 | 12015 | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | [완료](./solutions/12015.cpp) |
-| 2512 | [예산](https://www.acmicpc.net/problem/2512) | [미완료] |
+| 2512 | [예산](https://www.acmicpc.net/problem/2512) | [완료](./solutions/2512.cpp) |
 | 1477 | [휴게소 세우기](https://www.acmicpc.net/problem/1477) | [완료](./solutions/1477.cpp) |
