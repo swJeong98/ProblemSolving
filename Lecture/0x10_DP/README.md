@@ -1,10 +1,10 @@
-# 0x10 문제 풀이 (25/44)
+# 0x10 문제 풀이 (28 / 44)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [완료](./solutions/1463.cpp) |
 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [완료](./solutions/9095.cpp) |
-| 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [미완료] |
+| 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [완료](./solutions/2579.cpp) |
 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | [완료](./solutions/1149.cpp) |
 | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | [완료](./solutions/11726.cpp) |
 | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [완료](./solutions/11659.cpp) |
@@ -16,8 +16,8 @@
 | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | [완료](./solutions/1912.cpp) |
 | 11055 | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [완료](./solutions/11055.cpp) |
 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [완료](./solutions/11053.cpp) |
-| 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | [미완료] |
-| 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | [미완료] |
+| 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | [완료](./solutions/9461.cpp) |
+| 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | [완료](./solutions/14501.cpp) |
 | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | [미완료] |
 | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [완료](./solutions/10844.cpp) |
 | 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | [미완료] |
