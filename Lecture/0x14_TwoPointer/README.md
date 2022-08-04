@@ -1,10 +1,10 @@
-# 0x14 문제 풀이 (2 / 11)
+# 0x14 문제 풀이 (3 / 11)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
 | 2230 | [수 고르기](https://www.acmicpc.net/problem/2230) | [완료](./solutions/2230.cpp) |
 | 1806 | [부분합](https://www.acmicpc.net/problem/1806) | [완료](./solutions/1806.cpp) |
-| 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [미완료] |
+| 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [완료](./solutions/1644.cpp) |
 | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | [미완료] |
 | 13144 | [List of Unique Numbers](https://www.acmicpc.net/problem/13144) | [미완료] |
 | 22862 | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | [미완료] |
