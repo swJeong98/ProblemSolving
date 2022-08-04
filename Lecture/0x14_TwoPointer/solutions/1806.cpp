@@ -1,30 +1,33 @@
-/* BOJ 1806 부분합 - 2022.04.28 */
+/* BOJ 1806 부분 합 - 2022.08.04 */
 #include <bits/stdc++.h>
+#define ll long long
 using namespace std;
 
-vector<int> prefix_sum(100005);
+ll A[100005];
 
 int main()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(0); cout.tie(0);
-    
-    int N, S; cin>>N>>S;
-    for(int i=1; i<=N; i++){
-        int x; cin>>x;
-        if(x >= S) {cout<<1; return 0;}
-        prefix_sum[i] = prefix_sum[i-1] + x;
+    cin.tie(0)->sync_with_stdio(0);
+
+    ll N, S; cin>>N>>S;
+    for(int i=0;i<N;i++) cin>>A[i];
+
+    int l = 0, r = 0;
+    int ans = 1e5 + 10;
+    ll sum = A[0];
+
+    while(r <= N-1){
+        if(sum < S){
+            r += 1;
+            sum += A[r];
+        }
+        else{
+            ans = min(ans, r - l + 1);
+            sum -= A[l];
+            l += 1;
+        }
     }
-    
-    int ans = 100005;
-    for(int i=1; i<=N; i++){
-        int target = S + prefix_sum[i-1];
-        auto pos = lower_bound(prefix_sum.begin()+1, prefix_sum.begin()+N+1,target);
-        if(pos == prefix_sum.begin()+N+1) continue;
-        int dist = (pos - prefix_sum.begin()) - i + 1;
-        ans = min(ans,dist);
-    }
-    if(ans == 100005) cout<<0;
-    else cout<<ans;
+    if(ans == 1e5 + 10) ans = 0;
+    cout<<ans;
     return 0;
 }
