@@ -1,8 +1,8 @@
-# 0x14 문제 풀이 (1 / 11)
+# 0x14 문제 풀이 (2 / 11)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
-| 2230 | [수 고르기](https://www.acmicpc.net/problem/2230) | [미완료] |
+| 2230 | [수 고르기](https://www.acmicpc.net/problem/2230) | [완료](./solutions/2230.cpp) |
 | 1806 | [부분합](https://www.acmicpc.net/problem/1806) | [완료](./solutions/1806.cpp) |
 | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [미완료] |
 | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | [미완료] |
