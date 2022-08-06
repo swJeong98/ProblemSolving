@@ -4,9 +4,9 @@
 | :--: | :--: | :--: |
 | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [완료](./solutions/11724.cpp) |
 | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [완료](./solutions/1260.cpp) |
-| 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | [완료](./solutions/11724.cpp) |
+| 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | [완료](./solutions/2606.cpp) |
 | 5567 | [결혼식](https://www.acmicpc.net/problem/5567) | [미완료] |
-| 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | [완료](./solutions/11724.cpp) |
+| 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | [완료](./solutions/11403.cpp) |
 | 2660 | [회장뽑기](https://www.acmicpc.net/problem/2660) | [미완료] |
 | 1389 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [미완료] |
 | 1325 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | [미완료] |
