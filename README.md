@@ -13,7 +13,7 @@ C++로 대부분 작성되었고, 문자열 다루는 문제 중 일부는 Pytho
 알고리즘 스터디에서 풀어본 문제의 소스코드.   
 [Baekjoon Online judge](https://www.acmicpc.net/) 문제들입니다.   
 
-### 개인공부
+### Free
 자유롭게 공부한 문제들의 소스코드.   
 [Baekjoon Online Judge](https://www.acmicpc.net/),       
 [Programmers](https://programmers.co.kr/),   
