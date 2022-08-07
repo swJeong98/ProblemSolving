@@ -10,7 +10,7 @@
 | 2660 | [회장뽑기](https://www.acmicpc.net/problem/2660) | [완료](./solutions/2660.cpp) |
 | 1389 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [완료](./solutions/1389.cpp) |
 | 1325 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | [완료](./solutions/1325.cpp) |
-| 6118 | [숨바꼭질](https://www.acmicpc.net/problem/6118) | [미완료] |
+| 6118 | [숨바꼭질](https://www.acmicpc.net/problem/6118) | [완료](./solutions/6118.cpp) |
 | 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | [미완료] |
 | 2617 | [구슬 찾기](https://www.acmicpc.net/problem/2617) | [미완료] |
 | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) |[미완료] |
