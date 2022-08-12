@@ -1,4 +1,4 @@
-# 0x0D 문제 풀이 (6 / 60)
+# 0x0D 문제 풀이 (7 / 60)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -18,7 +18,7 @@
 | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | [완료](./solutions/14502.cpp)|
 | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [미완료] |
 | 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [미완료] |
-| 14890 | [경사로](https://www.acmicpc.net/problem/14890) | [미완료] |
+| 14890 | [경사로](https://www.acmicpc.net/problem/14890) | [완료](./solutions/14890.cpp) |
 | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | [미완료] |
 | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | [미완료] |
 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | [미완료] |
