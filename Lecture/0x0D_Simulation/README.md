@@ -1,9 +1,9 @@
-# 0x0D 문제 풀이 (7 / 60)
+# 0x0D 문제 풀이 (8 / 60)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
 | 15683 | [감시](https://www.acmicpc.net/problem/15683) | [완료](./solutions/15683.cpp) |
-| 18808 | [스티커 붙이기](https://www.acmicpc.net/problem/18808) | [미완료] |
+| 18808 | [스티커 붙이기](https://www.acmicpc.net/problem/18808) | [완료](./solutions/18808.cpp) |
 | 12100 | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [미완료] |
 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | [완료](./solutions/15686.cpp) |
 | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [미완료] |
