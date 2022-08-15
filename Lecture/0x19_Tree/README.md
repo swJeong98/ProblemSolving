@@ -1,4 +1,4 @@
-# 0x19 문제 풀이 (10 / 13)
+# 0x19 문제 풀이 (11 / 13)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -11,7 +11,7 @@
 | 1068 | [트리](https://www.acmicpc.net/problem/1068) | [완료](./solutions/1068.cpp) |
 | 20955 | [민서의 응급 수술](https://www.acmicpc.net/problem/20955) | [미완료] |
 | 14267 | [회사 문화 1](https://www.acmicpc.net/problem/14267) | [완료](./solutions/14267.cpp) |
-| 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | [미완료] |
+| 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | [완료](./solutions/2250.cpp) |
 | 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [완료](./solutions/2533.cpp) |
 | 1967 | [트리의 지름](https://www.acmicpc.net/problem/1967) | [완료](./solutions/1967.cpp) |
 | 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | [완료](./solutions/1167.cpp) |
