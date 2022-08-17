@@ -17,7 +17,7 @@
 | 13460 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) |[미완료] |
 | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | [완료](./solutions/14502.cpp)|
 | 14888 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [완료](./solutions/14888.cpp) |
-| 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [완료](./ |
+| 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [완료](./solutions/14889.cpp) |
 | 14890 | [경사로](https://www.acmicpc.net/problem/14890) | [완료](./solutions/14890.cpp) |
 | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | [미완료] |
 | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | [미완료] |
