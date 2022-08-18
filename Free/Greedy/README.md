@@ -21,7 +21,7 @@
 | 4716 | [풍선](https://www.acmicpc.net/problem/4716) | [미완료] |
 | 1543 | [문서 검색](https://www.acmicpc.net/problem/1543) | [미완료] |
 | 2141 | [우체국](https://www.acmicpc.net/problem/2141) | [미완료] |
-| 2885 | [초콜릿 식사](https://www.acmicpc.net/problem/2885) | [미완료] |
+| 2885 | [초콜릿 식사](https://www.acmicpc.net/problem/2885) | [완료](./solutions/2885.cpp) |
 | 10165 | [버스 노선](https://www.acmicpc.net/problem/10165) | [미완료] |
 | 2258 | [정육점](https://www.acmicpc.net/problem/2258) | [미완료] |
 | 12018 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | [미완료] |
