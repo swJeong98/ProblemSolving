@@ -24,7 +24,7 @@
 | 2885 | [초콜릿 식사](https://www.acmicpc.net/problem/2885) | [완료](./solutions/2885.cpp) |
 | 10165 | [버스 노선](https://www.acmicpc.net/problem/10165) | [미완료] |
 | 2258 | [정육점](https://www.acmicpc.net/problem/2258) | [미완료] |
-| 12018 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | [미완료] |
+| 12018 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | [완료](./solutions/12018.cpp) |
 | 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | [완료](./solutions/2812.cpp) |
 | 1201 | [NMK](https://www.acmicpc.net/problem/1201) | [미완료] |
 | 10800 | [컬러볼](https://www.acmicpc.net/problem/10800) | [완료](./solutions/10800.cpp) |
@@ -44,7 +44,7 @@
 | 2109 | [순회강연](https://www.acmicpc.net/problem/2109) | [완료](./solutions/2109.cpp) |
 | 1461 | [도서관](https://www.acmicpc.net/problem/1461) | [미완료] |
 | 1132 | [합](https://www.acmicpc.net/problem/1132) | [완료](./solutions/1132.cpp) |
-| 20044 | [Project Teams](https://www.acmicpc.net/problem/20044) | [미완료] |
+| 20044 | [Project Teams](https://www.acmicpc.net/problem/20044) | [완료](./solutions/20444.cpp) |
 | 1727 | [커플 만들기](https://www.acmicpc.net/problem/1727) | [미완료] |
 | 2879 | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [미완료] |
 | 18186 | [라면 사기 (Large)](https://www.acmicpc.net/problem/18186) | [미완료] |
