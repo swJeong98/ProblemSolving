@@ -42,7 +42,7 @@
 | 2138 | [전구와 스위치](https://www.acmicpc.net/problem/2138) | [미완료] |
 | 1398 | [동전 문제](https://www.acmicpc.net/problem/1398) | [미완료] |
 | 2109 | [순회강연](https://www.acmicpc.net/problem/2109) | [완료](./solutions/2109.cpp) |
-| 1461 | [도서관](https://www.acmicpc.net/problem/1461) | [미완료] |
+| 1461 | [도서관](https://www.acmicpc.net/problem/1461) | [완료](./solutions/1461.cpp) |
 | 1132 | [합](https://www.acmicpc.net/problem/1132) | [완료](./solutions/1132.cpp) |
 | 20044 | [Project Teams](https://www.acmicpc.net/problem/20044) | [완료](./solutions/20444.cpp) |
 | 1727 | [커플 만들기](https://www.acmicpc.net/problem/1727) | [미완료] |
