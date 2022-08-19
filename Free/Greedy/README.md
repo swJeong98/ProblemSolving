@@ -28,7 +28,7 @@
 | 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | [완료](./solutions/2812.cpp) |
 | 1201 | [NMK](https://www.acmicpc.net/problem/1201) | [미완료] |
 | 10800 | [컬러볼](https://www.acmicpc.net/problem/10800) | [완료](./solutions/10800.cpp) |
-| 2891 | [카약과 강풍](https://www.acmicpc.net/problem/2891) | [미완료] |
+| 2891 | [카약과 강풍](https://www.acmicpc.net/problem/2891) | [완료](./solutions/2891.cpp) |
 | 1082 | [방 번호](https://www.acmicpc.net/problem/1082) | [미완료] |
 | 2923 | [숫자 게임](https://www.acmicpc.net/problem/2923) | [미완료] |
 | 2036 | [수열의 점수](https://www.acmicpc.net/problem/2036) | [미완료] |
