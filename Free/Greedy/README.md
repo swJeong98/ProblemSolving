@@ -10,7 +10,7 @@
 | 2212 | [센서](https://www.acmicpc.net/problem/2212) | [완료](./solutions/2212.cpp) |
 | 1459 | [걷기](https://www.acmicpc.net/problem/1459) | [완료](./solutions/1459.cpp) |
 | 1826 | [연료 채우기](https://www.acmicpc.net/problem/1826) | [완료](./solutions/1826.cpp) |
-| 5585 | [거스름돈](https://www.acmicpc.net/problem/5585) | [미완료] |
+| 5585 | [거스름돈](https://www.acmicpc.net/problem/5585) | [완료](./ |
 | 1508 | [레이스](https://www.acmicpc.net/problem/1508) | [미완료] |
 | 1294 | [문자열 장식](https://www.acmicpc.net/problem/1294) | [미완료] |
 | 1802 | [종이 접기](https://www.acmicpc.net/problem/1802) | [미완료] |
