@@ -1,4 +1,4 @@
-# 0x0D 문제 풀이 (10 / 60)
+# 0x0D 문제 풀이 (11 / 60)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -8,7 +8,7 @@
 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | [완료](./solutions/15686.cpp) |
 | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [미완료] |
 | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | [완료](./solutions/14891.cpp) |
-| 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [미완료] |
+| 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [완료](./solutions/14499.cpp) |
 | 13335 | [트럭](https://www.acmicpc.net/problem/13335) | [미완료] |
 | 16985 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) | [미완료] |
 | 14503 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [완료](./solutions/14503.cpp) |
