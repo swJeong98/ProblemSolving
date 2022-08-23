@@ -27,8 +27,8 @@
 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | [미완료] |
 | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | [미완료] |
 | 17140 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | [미완료] |
-| 17141 | [연구소 2](https://www.acmicpc.net/problem/17141) | [미완료] |
-| 17142 | [연구소 3](https://www.acmicpc.net/problem/17142) | [미완료] |
+| 17141 | [연구소 2](https://www.acmicpc.net/problem/17141) | [완료](./solutions/17141.cpp) |
+| 17142 | [연구소 3](https://www.acmicpc.net/problem/17142) | [완료](./solutions/17142.cpp) |
 | 17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | [미완료] |
 | 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [미완료] |
 | 4991 | [로봇 청소기](https://www.acmicpc.net/problem/4991) | [미완료] |
