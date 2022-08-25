@@ -1,4 +1,4 @@
-# 0x09 문제 풀이 (25 / 30)
+# 0x09 문제 풀이 (26 / 30)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -25,7 +25,7 @@
 | 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [완료](./Solution/1600.cpp) |
 | 13913 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) | [완료](./Solution/13913.cpp) |
 | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | [완료](./Solution/14442.cpp) |
-| 16933 | [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933) | [미완료]|
+| 16933 | [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933) | [완료](./Solution/16933.cpp) |
 | 16920 | [확장 게임](https://www.acmicpc.net/problem/16920) | [완료](./Solution/16920.cpp) |
 | 11967 | [불켜기](https://www.acmicpc.net/problem/11967) | [완료](./Solution/11967.cpp) |
 | 17071 | [숨바꼭질 5](https://www.acmicpc.net/problem/17071) | [미완료] |
