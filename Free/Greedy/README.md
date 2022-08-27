@@ -31,7 +31,7 @@
 | 2891 | [카약과 강풍](https://www.acmicpc.net/problem/2891) | [완료](./solutions/2891.cpp) |
 | 1082 | [방 번호](https://www.acmicpc.net/problem/1082) | [미완료] |
 | 2923 | [숫자 게임](https://www.acmicpc.net/problem/2923) | [미완료] |
-| 2036 | [수열의 점수](https://www.acmicpc.net/problem/2036) | [미완료] |
+| 2036 | [수열의 점수](https://www.acmicpc.net/problem/2036) | [완료](./solutions/2036.cpp) |
 | 2785 | [체인](https://www.acmicpc.net/problem/2785) | [미완료] |
 | 2831 | [댄스 파티](https://www.acmicpc.net/problem/2831) | [미완료] |
 | 1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | [완료](./solutions/1715.cpp) |
