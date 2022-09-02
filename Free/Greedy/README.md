@@ -5,7 +5,7 @@
 | 3109 | [빵집](https://www.acmicpc.net/problem/3109) | [미완료] |
 | 1781 | [컵라면](https://www.acmicpc.net/problem/1781) | [완료](./solutions/1781.cpp) |
 | 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | [완료](./solutions/1202.cpp) |
-| 8980 | [택배](https://www.acmicpc.net/problem/8980) | [미완료] |
+| 8980 | [택배](https://www.acmicpc.net/problem/8980) | [완료](./solutions/8980.cpp) |
 | 1911 | [흙길 보수하기](https://www.acmicpc.net/problem/1911) | [완료](./solutions/1911.cpp) |
 | 2212 | [센서](https://www.acmicpc.net/problem/2212) | [완료](./solutions/2212.cpp) |
 | 1459 | [걷기](https://www.acmicpc.net/problem/1459) | [완료](./solutions/1459.cpp) |
