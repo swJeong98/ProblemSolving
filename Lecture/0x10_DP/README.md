@@ -1,4 +1,4 @@
-# 0x10 문제 풀이 (30 / 44)
+# 0x10 문제 풀이 (32 / 44)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -23,8 +23,8 @@
 | 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | [완료](./solutions/2748.cpp)|
 | 2240 | [자두나무](https://www.acmicpc.net/problem/2240) | [완료](./solutions/2240.cpp) |
 | 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | [완료](./solutions/14002.cpp) |
-| 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [미완료] |
-| 15988 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [미완료] |
+| 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [완료](./solutions/2156.cpp) |
+| 15988 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [완료](./solutions/15988.cpp) |
 | 2302 | [극장 좌석](https://www.acmicpc.net/problem/2302) | [미완료] |
 | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [완료](./solutions/11052.cpp) |
 | 9465 | [스티커](https://www.acmicpc.net/problem/9465) | [미완료] |
