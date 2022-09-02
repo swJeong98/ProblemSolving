@@ -1,4 +1,4 @@
-# 0x11 문제 풀이 (15 / 17)
+# 0x11 문제 풀이 (16 / 17)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -17,5 +17,5 @@
 | 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | [완료](./solutions/15903.cpp) |
 | 2170 | [선 긋기](https://www.acmicpc.net/problem/2170) | [완료](./solutions/2170.cpp) |
 | 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | [미완료] |
-| 8980 | [택배](https://www.acmicpc.net/problem/8980) | [미완료] |
+| 8980 | [택배](https://www.acmicpc.net/problem/8980) | [완료](./solutions/8980.cpp) |
 | 7570 | [줄 세우기](https://www.acmicpc.net/problem/7570) | [완료](./solutions/7570.cpp) |
