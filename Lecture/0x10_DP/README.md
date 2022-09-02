@@ -1,4 +1,4 @@
-# 0x10 문제 풀이 (28 / 44)
+# 0x10 문제 풀이 (30 / 44)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -18,9 +18,9 @@
 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [완료](./solutions/11053.cpp) |
 | 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | [완료](./solutions/9461.cpp) |
 | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | [완료](./solutions/14501.cpp) |
-| 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | [미완료] |
+| 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | [완료](./solutions/15486.cpp) |
 | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [완료](./solutions/10844.cpp) |
-| 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | [미완료] |
+| 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | [완료](./solutions/2748.cpp)|
 | 2240 | [자두나무](https://www.acmicpc.net/problem/2240) | [완료](./solutions/2240.cpp) |
 | 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | [완료](./solutions/14002.cpp) |
 | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [미완료] |
