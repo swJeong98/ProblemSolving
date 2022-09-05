@@ -1,4 +1,4 @@
-# 0x10 문제 풀이 (33 / 44)
+# 0x10 문제 풀이 (36 / 44)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -27,11 +27,11 @@
 | 15988 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [완료](./solutions/15988.cpp) |
 | 2302 | [극장 좌석](https://www.acmicpc.net/problem/2302) | [완료](./solutions/2302.cpp) |
 | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [완료](./solutions/11052.cpp) |
-| 9465 | [스티커](https://www.acmicpc.net/problem/9465) | [미완료] |
+| 9465 | [스티커](https://www.acmicpc.net/problem/9465) | [완료](./solutions/9465.cpp) |
 | 11057 | [오르막 수](https://www.acmicpc.net/problem/11057) | [완료](./solutions/11057.cpp) |
 | 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | [완료](./solutions/2293.cpp) |
-| 1904 | [01타일](https://www.acmicpc.net/problem/1904) | [미완료] |
-| 1788 | [피보나치 수의 확장](https://www.acmicpc.net/problem/1788) | [미완료] |
+| 1904 | [01타일](https://www.acmicpc.net/problem/1904) | [완료](./solutions/1904.cpp) |
+| 1788 | [피보나치 수의 확장](https://www.acmicpc.net/problem/1788) | [완료](./solutions/1788.cpp) |
 | 4883 | [삼각 그래프](https://www.acmicpc.net/problem/4883) | [미완료] |
 | 9251 | [LCS](https://www.acmicpc.net/problem/9251) | [미완료] |
 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | [미완료] |
