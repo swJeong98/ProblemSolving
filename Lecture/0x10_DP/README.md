@@ -1,4 +1,4 @@
-# 0x10 문제 풀이 (38 / 44)
+# 0x10 문제 풀이 (40 / 44)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -32,7 +32,7 @@
 | 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | [완료](./solutions/2293.cpp) |
 | 1904 | [01타일](https://www.acmicpc.net/problem/1904) | [완료](./solutions/1904.cpp) |
 | 1788 | [피보나치 수의 확장](https://www.acmicpc.net/problem/1788) | [완료](./solutions/1788.cpp) |
-| 4883 | [삼각 그래프](https://www.acmicpc.net/problem/4883) | [미완료] |
+| 4883 | [삼각 그래프](https://www.acmicpc.net/problem/4883) | [완료](./solutions/4883.cpp) |
 | 9251 | [LCS](https://www.acmicpc.net/problem/9251) | [미완료] |
 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | [완료](./solutions/1699.cpp) |
 | 9084 | [동전](https://www.acmicpc.net/problem/9084) | [완료](./solutions/9084.cpp) |
@@ -43,6 +43,6 @@
 | 2294 | [동전 2](https://www.acmicpc.net/problem/2294) | [완료](./solutions/2294.cpp) |
 | 2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | [완료](./solutions/2133.cpp) |
 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | [완료](./solutions/1520.cpp) |
-| 9657 | [돌 게임 3](https://www.acmicpc.net/problem/9657) | [미완료] |
+| 9657 | [돌 게임 3](https://www.acmicpc.net/problem/9657) | [완료](./solutions/9657.cpp) |
 | 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [완료](./solutions/11660.cpp) |
 | 2482 | [색상환](https://www.acmicpc.net/problem/2482) | [미완료] |
