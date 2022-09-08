@@ -1,4 +1,4 @@
-# 0x10 문제 풀이 (40 / 44)
+# 0x10 문제 풀이 (42 / 44)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -36,10 +36,10 @@
 | 9251 | [LCS](https://www.acmicpc.net/problem/9251) | [미완료] |
 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | [완료](./solutions/1699.cpp) |
 | 9084 | [동전](https://www.acmicpc.net/problem/9084) | [완료](./solutions/9084.cpp) |
-| 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [미완료] |
+| 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [완료](./solutions/1915.cpp) |
 | 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942) | [완료](./solutions/10942.cpp) |
 | 9655 | [돌 게임](https://www.acmicpc.net/problem/9655) | [완료](./solutions/9655.cpp) |
-| 2011 | [암호코드](https://www.acmicpc.net/problem/2011) | [미완료] |
+| 2011 | [암호코드](https://www.acmicpc.net/problem/2011) | [완료](./solutions/2011.cpp) |
 | 2294 | [동전 2](https://www.acmicpc.net/problem/2294) | [완료](./solutions/2294.cpp) |
 | 2133 | [타일 채우기](https://www.acmicpc.net/problem/2133) | [완료](./solutions/2133.cpp) |
 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | [완료](./solutions/1520.cpp) |
