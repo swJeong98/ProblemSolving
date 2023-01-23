@@ -45,4 +45,4 @@
 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | [완료](./solutions/1520.cpp) |
 | 9657 | [돌 게임 3](https://www.acmicpc.net/problem/9657) | [완료](./solutions/9657.cpp) |
 | 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [완료](./solutions/11660.cpp) |
-| 2482 | [색상환](https://www.acmicpc.net/problem/2482) | [미완료] |
+| 2482 | [색상환](https://www.acmicpc.net/problem/2482) | [완료](./solutions/2482.cpp) |
