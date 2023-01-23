@@ -13,6 +13,6 @@
 | 24042 | [횡단보도](https://www.acmicpc.net/problem/24042) | [미완료] |
 | 1162 | [도로포장](https://www.acmicpc.net/problem/1162) | [미완료] |
 | 1854 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | [미완료] |
-| 5719 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | [미완료] |
+| 5719 | [거의 최단 경로](https://www.acmicpc.net/problem/5719) | [완료](./solutions/5719.cpp) |
 | 13907 | [세금](https://www.acmicpc.net/problem/13907) | [미완료] |
 | 22870 | [산책 (large)](https://www.acmicpc.net/problem/22870) | [미완료] |

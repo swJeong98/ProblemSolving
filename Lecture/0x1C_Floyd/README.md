@@ -1,8 +1,8 @@
-# 0x1C 문제 풀이 (0 / 15)
+# 0x1C 문제 풀이 (1 / 15)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
-| 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | [미완료] |
+| 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | [완료](./solutions/11404.cpp) |
 | 11780 | [플로이드 2](https://www.acmicpc.net/problem/11780) | [미완료] |
 | 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | [미완료] |
 | 21940 | [가운데에서 만나기](https://www.acmicpc.net/problem/21940) | [미완료] |
