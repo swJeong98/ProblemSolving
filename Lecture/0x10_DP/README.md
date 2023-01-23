@@ -1,4 +1,4 @@
-# 0x10 문제 풀이 (43 / 44)
+# 0x10 문제 풀이 (44 / 44)
 
 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: |
@@ -33,7 +33,7 @@
 | 1904 | [01타일](https://www.acmicpc.net/problem/1904) | [완료](./solutions/1904.cpp) |
 | 1788 | [피보나치 수의 확장](https://www.acmicpc.net/problem/1788) | [완료](./solutions/1788.cpp) |
 | 4883 | [삼각 그래프](https://www.acmicpc.net/problem/4883) | [완료](./solutions/4883.cpp) |
-| 9251 | [LCS](https://www.acmicpc.net/problem/9251) | [미완료] |
+| 9251 | [LCS](https://www.acmicpc.net/problem/9251) | [완료](./solutions/9251.cpp) |
 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | [완료](./solutions/1699.cpp) |
 | 9084 | [동전](https://www.acmicpc.net/problem/9084) | [완료](./solutions/9084.cpp) |
 | 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | [완료](./solutions/1915.cpp) |
