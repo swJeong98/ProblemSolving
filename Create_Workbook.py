@@ -1,5 +1,3 @@
-## 백준 문제집 페이지를 Crawling 하여 Github upload 형식으로 만드는 코드.
-
 import requests
 import sys
 from bs4 import BeautifulSoup
@@ -8,8 +6,9 @@ from bs4 import BeautifulSoup
 ### Refer : https://24hours-beginner.tistory.com/115
 sys.stdout = open("./result.txt", 'w', encoding='UTF-8')
 
-url = "https://www.acmicpc.net/workbook/view/12441"
-res = requests.get(url)
+headers = {'User-Agent' : 'Mozilla/5.0'}
+url = "https://www.acmicpc.net/workbook/view/7645"
+res = requests.get(url, headers=headers)
 res.raise_for_status()
 
 soup = BeautifulSoup(res.text, "lxml")
@@ -34,10 +33,14 @@ for problem in problems :
         if idx == 2 :
             ### 동적 크롤링 (Selenium 으로 성공인 경우는 아래와 같이 생성하도록 변경해야함.)
             # problemState = "| [완료](./solutions/" + problemNum + ".cpp) |"
-            pass
+            try :
+                elem.find("span", attrs={"class", "problem-label problem-label-ac"}).getText()
+                problemState = "| [완료](./solutions/" + problemNum + ".cpp) |"
+            except :
+                pass
 
     problemLink = "https://www.acmicpc.net/problem/"+problemNum
-    
+
     temp = "| " + problemNum + " | [" + problemName + "]("+problemLink+")" + problemState
     result.append(temp)
 
