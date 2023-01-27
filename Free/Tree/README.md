@@ -14,24 +14,24 @@
 | 9489 | [사촌](https://www.acmicpc.net/problem/9489)| [미완료] |
 | 20924 | [트리의 기둥과 가지](https://www.acmicpc.net/problem/20924)| [미완료] |
 | 2263 | [트리의 순회](https://www.acmicpc.net/problem/2263)| [미완료] |
-| 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250)| [미완료] |
+| 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250)| [완료](./solutions/2250.cpp) |
 | 9372 | [상근이의 여행](https://www.acmicpc.net/problem/9372)| [미완료] |
 | 20364 | [부동산 다툼](https://www.acmicpc.net/problem/20364)| [완료](./solutions/20364.cpp) |
 | 15900 | [나무 탈출](https://www.acmicpc.net/problem/15900)| [완료](./solutions/15900.cpp) |
 | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681)| [완료](./solutions/15681.cpp) |
 | 19641 | [중첩 집합 모델](https://www.acmicpc.net/problem/19641)| [미완료] |
-| 1240 | [노드사이의 거리](https://www.acmicpc.net/problem/1240)| [미완료] |
-| 4803 | [트리](https://www.acmicpc.net/problem/4803)| [미완료] |
+| 1240 | [노드사이의 거리](https://www.acmicpc.net/problem/1240)| [완료](./solutions/1240.cpp) |
+| 4803 | [트리](https://www.acmicpc.net/problem/4803)| [완료](./solutions/4803.cpp) |
 | 4933 | [뉴턴의 사과](https://www.acmicpc.net/problem/4933)| [미완료] |
-| 14267 | [회사 문화 1](https://www.acmicpc.net/problem/14267)| [미완료] |
+| 14267 | [회사 문화 1](https://www.acmicpc.net/problem/14267)| [완료](./solutions/14267.cpp) |
 | 19542 | [전단지 돌리기](https://www.acmicpc.net/problem/19542)| [미완료] |
 | 20955 | [민서의 응급 수술](https://www.acmicpc.net/problem/20955)| [완료](./solutions/20955.cpp) |
 | 21276 | [계보 복원가 호석](https://www.acmicpc.net/problem/21276)| [미완료] |
-| 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167)| [미완료] |
+| 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167)| [완료](./solutions/1167.cpp) |
 | 1595 | [북쪽나라의 도로](https://www.acmicpc.net/problem/1595)| [미완료] |
 | 2058 | [원자의 에너지](https://www.acmicpc.net/problem/2058)| [미완료] |
-| 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)| [미완료] |
-| 11437 | [LCA](https://www.acmicpc.net/problem/11437)| [미완료] |
+| 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)| [완료](./solutions/2533.cpp) |
+| 11437 | [LCA](https://www.acmicpc.net/problem/11437)| [완료](./solutions/11437.cpp) |
 | 12896 | [스크루지 민호](https://www.acmicpc.net/problem/12896)| [미완료] |
 | 19535 | [ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535)| [미완료] |
 | 4315 | [나무 위의 구슬](https://www.acmicpc.net/problem/4315)| [미완료] |
