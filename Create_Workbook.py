@@ -3,7 +3,6 @@ import sys
 from bs4 import BeautifulSoup
 
 ### stdout Ridirection 
-### Refer : https://24hours-beginner.tistory.com/115
 sys.stdout = open("./result.txt", 'w', encoding='UTF-8')
 
 headers = {'User-Agent' : 'Mozilla/5.0'}
@@ -31,13 +30,9 @@ for problem in problems :
             elem = elem.find("a")
             problemName = elem.getText()
         if idx == 2 :
-            ### 동적 크롤링 (Selenium 으로 성공인 경우는 아래와 같이 생성하도록 변경해야함.)
+            ### 로그인 후 크롤링
             # problemState = "| [완료](./solutions/" + problemNum + ".cpp) |"
-            try :
-                elem.find("span", attrs={"class", "problem-label problem-label-ac"}).getText()
-                problemState = "| [완료](./solutions/" + problemNum + ".cpp) |"
-            except :
-                pass
+            # 2023.01.27 : BOJ는 공식적으로 프로그램을 통한 로그인 허용하지 않아 로그인 작업을 할 수 없음을 확인하여 삭제
 
     problemLink = "https://www.acmicpc.net/problem/"+problemNum
 
