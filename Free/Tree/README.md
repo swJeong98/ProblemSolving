@@ -7,7 +7,7 @@
 | 1068 | [트리](https://www.acmicpc.net/problem/1068)| [완료](./solutions/1068.cpp) |
 | 6416 | [트리인가?](https://www.acmicpc.net/problem/6416)| [완료](./solutions/6416.cpp) |
 | 14675 | [단절점과 단절선](https://www.acmicpc.net/problem/14675)| [완료](./solutions/14675.cpp) |
-| 17073 | [나무 위의 빗물](https://www.acmicpc.net/problem/17073)| [미완료] |
+| 17073 | [나무 위의 빗물](https://www.acmicpc.net/problem/17073)| [완료](./solutions/17073.cpp) |
 | 1967 | [트리의 지름](https://www.acmicpc.net/problem/1967)| [완료](./solutions/1967.cpp) |
 | 3584 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)| [미완료] |
 | 4256 | [트리](https://www.acmicpc.net/problem/4256)| [미완료] |
