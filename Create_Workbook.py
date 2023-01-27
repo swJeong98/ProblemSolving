@@ -2,20 +2,42 @@ import requests
 import sys
 from bs4 import BeautifulSoup
 
-### stdout Ridirection 
+######################## README ###########################
+#                                                         #
+#                                                         #
+#                       < Notes >                         #
+# You must change variables below to get desired result ! #
+#                                                         #
+# <Mandatory>                                             #
+# url : BOJ Workbook URL                                  #
+# userIDs : BOJ Handle(s)                                 #
+# (multiple handles can be covered)                       #
+#                                                         #
+# <Optioanl>                                              #
+# redirect text file name : result.txt -> xxxx.txt        #
+#                                                         #
+#                                                         #
+###########################################################
+
+### stdout Ridirection
+### result.txt is necessarily exist in same directory that executed python file exists.
+### Or you can designate an absolute path where desired output is redirected.
 sys.stdout = open("./result.txt", 'w', encoding='UTF-8')
 
 headers = {'User-Agent' : 'Mozilla/5.0'}
+
+## replace this part with BOJ Workbook URL ##
 url = "https://www.acmicpc.net/workbook/view/7645"
+
+
 res = requests.get(url, headers=headers)
-res.raise_for_status()
+res.raise_for_status() 
 
 soup = BeautifulSoup(res.text, "lxml")
 
 result = []
 result.append("| 문제 | 문제 제목 | 정답 코드 |")
 result.append("| :--: | :--: | :--: |")
-
 problems = soup.find("div", attrs={"class":"table-responsive"}).find("tbody").findAll("tr")
 
 for problem in problems :
@@ -24,16 +46,31 @@ for problem in problems :
     problemNum = ""
     problemName = ""
     problemState = "| [미완료] |"
+    ## replace this part with BOJ handle 
+    ## example : ['tree5678' , 'tree1234']
+    userIDs = ['handle1', 'handle2']
+
     for idx, elem in enumerate(problemInfo) :
         if idx == 0 : problemNum = elem.getText()
         if idx == 1 :
             elem = elem.find("a")
             problemName = elem.getText()
-        if idx == 2 :
-            ### 로그인 후 크롤링
-            # problemState = "| [완료](./solutions/" + problemNum + ".cpp) |"
-            # 2023.01.27 : BOJ는 공식적으로 프로그램을 통한 로그인 허용하지 않아 로그인 작업을 할 수 없음을 확인하여 삭제
+    
+    for userid in userIDs :
+        submit_url = 'https://www.acmicpc.net/status?option-status-pid=on&problem_id=' + problemNum + '&user_id=' + userid + '&language_id=-1&result_id=-1&from_problem=1'
 
+        response = requests.get(submit_url, headers=headers)
+        response.raise_for_status()
+        tmp = BeautifulSoup(response.text, "lxml")
+        submits = tmp.find("table", attrs={"class":"table table-striped table-bordered"}).find("tbody").findAll("tr")
+        for submit in submits :
+            try :
+                submit = submit.findAll("td")
+                accept = submit[3].getText() 
+                if accept == '맞았습니다!!' : problemState = "| [완료](./solutions/" + problemNum + ".cpp) |"
+                break
+            except : continue
+    
     problemLink = "https://www.acmicpc.net/problem/"+problemNum
 
     temp = "| " + problemNum + " | [" + problemName + "]("+problemLink+")" + problemState
