@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 #                                                         #
 # <Optioanl>                                              #
 # open("desired path", 'w')                               #
-#                                                         #
+# (Markdown file is recommended)                          #
 #                                                         #
 #                                                         #
 ###########################################################
