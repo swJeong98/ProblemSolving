@@ -1,5 +1,6 @@
 import requests
 import sys
+import os
 from bs4 import BeautifulSoup
 
 ######################## README ###########################
@@ -10,8 +11,9 @@ from bs4 import BeautifulSoup
 #                                                         #
 # <Mandatory>                                             #
 # url : BOJ Workbook URL                                  #
-# userIDs : BOJ Handle(s)                                 #
-# (multiple handles can be covered)                       #
+# userIDs : BOJ Handle(s)                                 #                                                     
+# prefixPath : directory where solution code is created   #
+# file extension : type of solution code                  #
 #                                                         #
 # <Optioanl>                                              #
 # redirect text file name : result.txt -> xxxx.txt        #
@@ -27,7 +29,7 @@ sys.stdout = open("./result.txt", 'w', encoding='UTF-8')
 headers = {'User-Agent' : 'Mozilla/5.0'}
 
 ## replace this part with BOJ Workbook URL ##
-url = "https://www.acmicpc.net/workbook/view/7645"
+url = "https://www.acmicpc.net/workbook/view/6782"
 
 
 res = requests.get(url, headers=headers)
@@ -50,8 +52,19 @@ for problem in problems :
     ## example : ['tree5678' , 'tree1234']
     userIDs = ['handle1', 'handle2']
 
+    ## replace this part with path where solution codes are created.
+    prefixPath = './TwoPointer/'
+    ## replace this part with file extension of your solution.
+    fileExtension = '.cpp'
+
     for idx, elem in enumerate(problemInfo) :
-        if idx == 0 : problemNum = elem.getText()
+        if idx == 0 : 
+            problemNum = elem.getText()
+            destination = prefixPath + problemNum + fileExtension
+            if not os.path.exists(destination) : 
+                f = open(destination, 'w')
+                f.close()
+                
         if idx == 1 :
             elem = elem.find("a")
             problemName = elem.getText()
