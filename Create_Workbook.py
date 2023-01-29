@@ -33,7 +33,7 @@ url = "https://www.acmicpc.net/workbook/view/6782"
 
 
 res = requests.get(url, headers=headers)
-res.raise_for_status() 
+res.raise_for_status()
 
 soup = BeautifulSoup(res.text, "lxml")
 
@@ -58,17 +58,17 @@ for problem in problems :
     fileExtension = '.cpp'
 
     for idx, elem in enumerate(problemInfo) :
-        if idx == 0 : 
+        if idx == 0 :
             problemNum = elem.getText()
             destination = prefixPath + problemNum + fileExtension
-            if not os.path.exists(destination) : 
+            if not os.path.exists(destination) :
                 f = open(destination, 'w')
                 f.close()
-                
+
         if idx == 1 :
             elem = elem.find("a")
             problemName = elem.getText()
-    
+
     for userid in userIDs :
         submit_url = 'https://www.acmicpc.net/status?option-status-pid=on&problem_id=' + problemNum + '&user_id=' + userid + '&language_id=-1&result_id=-1&from_problem=1'
 
@@ -79,11 +79,11 @@ for problem in problems :
         for submit in submits :
             try :
                 submit = submit.findAll("td")
-                accept = submit[3].getText() 
+                accept = submit[3].getText()
                 if accept == '맞았습니다!!' : problemState = "| [완료](./solutions/" + problemNum + ".cpp) |"
                 break
             except : continue
-    
+
     problemLink = "https://www.acmicpc.net/problem/"+problemNum
 
     temp = "| " + problemNum + " | [" + problemName + "]("+problemLink+")" + problemState
