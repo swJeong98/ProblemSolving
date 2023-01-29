@@ -16,7 +16,8 @@ from bs4 import BeautifulSoup
 # file extension : type of solution code                  #
 #                                                         #
 # <Optioanl>                                              #
-# redirect text file name : result.txt -> xxxx.txt        #
+# open("desired path", 'w')                               #
+#                                                         #
 #                                                         #
 #                                                         #
 ###########################################################
@@ -24,7 +25,8 @@ from bs4 import BeautifulSoup
 ### stdout Ridirection
 ### result.txt is necessarily exist in same directory that executed python file exists.
 ### Or you can designate an absolute path where desired output is redirected.
-sys.stdout = open("./result.txt", 'w', encoding='UTF-8')
+templatePath = './Free/TwoPointer/README.md'
+sys.stdout = open(templatePath, 'w', encoding='UTF-8')
 
 headers = {'User-Agent' : 'Mozilla/5.0'}
 
@@ -53,7 +55,7 @@ for problem in problems :
     userIDs = ['handle1', 'handle2']
 
     ## replace this part with path where solution codes are created.
-    prefixPath = './TwoPointer/'
+    prefixPath = './Free/TwoPointer/solutions/'
     ## replace this part with file extension of your solution.
     fileExtension = '.cpp'
 
