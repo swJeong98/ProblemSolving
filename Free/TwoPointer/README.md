@@ -14,7 +14,7 @@
 | 2018 | [수들의 합 5](https://www.acmicpc.net/problem/2018)| [미완료] |
 | 1940 | [주몽](https://www.acmicpc.net/problem/1940)| [미완료] |
 | 3273 | [두 수의 합](https://www.acmicpc.net/problem/3273)| [완료](./solutions/3273.cpp) |
-| 10025 | [게으른 백곰](https://www.acmicpc.net/problem/10025)| [미완료] |
+| 10025 | [게으른 백곰](https://www.acmicpc.net/problem/10025)| [완료](./solutions/10025.cpp) |
 | 6159 | [코스튬 파티](https://www.acmicpc.net/problem/6159)| [미완료] |
 | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003)| [완료](./solutions/2003.cpp) |
 | 2559 | [수열](https://www.acmicpc.net/problem/2559)| [미완료] |
