@@ -95,7 +95,7 @@ vector<int> solution(vector<int> fees, vector<string> records) {
         if(cur.time > fees[0]) {
             int exceed = cur.time - fees[0];
             // cout<<exceed<<'\n';
-            int tmp = (exceed % fees[2] == 0) ? exceed/fees[2] : (exceed+fees[2] - (exceed%fees[2]))/fees[2];
+            int tmp = (exceed + fees[2] - 1) / fees[2];
             // cout<<tmp<<'\n';
             fee += (fees[3]) * tmp;
         }
